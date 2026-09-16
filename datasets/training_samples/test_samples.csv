@@ -1,0 +1,815 @@
+video_path,match_id,half,event_time,start_time,end_time,label
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1048,1038,1058,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2782.088833395617,2802.088833395617,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1944,1934,1954,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1528.5598846709004,1548.5598846709004,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2241,2231,2251,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1498,1488,1508,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,385.748260690103,405.748260690103,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,977,967,987,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1639,1629,1649,Corner
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,484.9316373939952,504.9316373939952,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,2908.5806909338226,2928.5806909338226,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1007.8691906184057,1027.8691906184058,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1798,1788,1808,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,2126.019741157139,2146.019741157139,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2551,2541,2561,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2519.1960208378723,2539.1960208378723,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2196,2186,2206,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,443.101778347282,463.101778347282,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1012.5838802749354,1032.5838802749354,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1596.3293168750058,1616.3293168750058,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,2906.9476893529395,2926.9476893529395,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2406,2396,2416,Corner
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,190,180,200,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1974,1964,1984,Direct free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,34.73887862592947,54.73887862592947,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1722.0019804101325,1742.0019804101325,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2303,2293,2313,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1839,1829,1849,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,977,967,987,Direct free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,639,629,649,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,184,174,194,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2115,2105,2125,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,0,0,10,Kick-off
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1703,1693,1713,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,268,258,278,Yellow card
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,2450.2918326566673,2470.2918326566673,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2762.049727557784,2782.049727557784,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2633.14820595046,2653.14820595046,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1625,1615,1635,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1334,1324,1344,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,74.91773628288894,94.91773628288894,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2649.08019953968,2669.08019953968,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1170.146813344966,1190.146813344966,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,726.4670178652764,746.4670178652764,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1396.7239113258595,1416.7239113258595,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1516.5170690844304,1536.5170690844304,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,877.5328078385835,897.5328078385835,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,0,0,10,Kick-off
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2019,2009,2029,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,182,172,192,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1481,1471,1491,Substitution
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2646.6800092829726,2666.6800092829726,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1772,1762,1782,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1053,1043,1063,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2418,2408,2428,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2420.1040919578527,2440.1040919578527,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1018.8453518367598,1038.8453518367598,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,660.506697297389,680.506697297389,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1092.7129328605574,1112.7129328605574,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1495,1485,1505,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1490,1480,1500,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1515.551794977281,1535.551794977281,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1222.532908255295,1242.532908255295,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1333,1323,1343,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1728.5533343789386,1748.5533343789386,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2040,2030,2050,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,334.68961650199384,354.68961650199384,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2877,2867,2887,Substitution
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,913.4234182217276,933.4234182217276,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,251.0878077750836,271.0878077750836,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1390.8866364447774,1410.8866364447774,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2333,2323,2343,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2348,2338,2358,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,2904.1537282192267,2924.1537282192267,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,109,99,119,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,2629.302844000648,2649.302844000648,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2147,2137,2157,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1806,1796,1816,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2331,2321,2341,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1097.4259710427555,1117.4259710427555,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1681,1671,1691,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1285,1275,1295,Shots off target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2668,2658,2678,Goal
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2626.352559704213,2646.352559704213,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2575.9610354100532,2595.9610354100532,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,467.157564047107,487.157564047107,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1903,1893,1913,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1771,1761,1781,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,501,491,511,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,116,106,126,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,98,88,108,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1714,1704,1724,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1266.1768189952022,1286.1768189952022,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2323,2313,2333,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1422,1412,1432,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,538,528,548,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1761,1751,1771,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,382.25035811298255,402.25035811298255,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1165,1155,1175,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,199.35338727278048,219.35338727278048,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,441,431,451,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1116.9807554919169,1136.9807554919169,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,738.2148761507633,758.2148761507633,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,86,76,96,Kick-off
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1333,1323,1343,Shots off target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,790.6586991884295,810.6586991884295,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1117.8108066336156,1137.8108066336156,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2449,2439,2459,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1999,1989,2009,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,162,152,172,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1024.4678009966788,1044.4678009966788,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,711.0666887170619,731.0666887170619,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,327.5687235076463,347.5687235076463,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,5.1214771468268605,25.121477146826862,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,626.2813647795249,646.2813647795249,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,852,842,862,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1743,1733,1753,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2024,2014,2034,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2623.0444143030863,2643.0444143030863,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,263.4652130843648,283.4652130843648,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1163.3278140804296,1183.3278140804296,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2116,2106,2126,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2539,2529,2549,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,575.7281633894663,595.7281633894663,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,819,809,829,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,952.1451914492541,972.1451914492541,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,26.468548800486392,46.46854880048639,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,422,412,432,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2387.2746297971316,2407.2746297971316,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2150.950129140125,2170.950129140125,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,719.102252230174,739.102252230174,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,769,759,779,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1946,1936,1956,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,814,804,824,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,270,260,280,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,589,579,599,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,536.7968086569857,556.7968086569857,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2794,2784,2804,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,432.3151168950974,452.3151168950974,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1976,1966,1986,Shots off target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,521,511,531,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1307,1297,1317,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,739.1429555544117,759.1429555544117,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1515.0931262481172,1535.0931262481172,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,860,850,870,Kick-off
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,581,571,591,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,0,0,10,Kick-off
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1680,1670,1690,Direct free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2169.7631347250485,2189.7631347250485,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1675,1665,1685,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,752.103912994712,772.103912994712,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,926.24047367863,946.24047367863,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2422.33770660017,2442.33770660017,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,2687.663886617604,2707.663886617604,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,317,307,327,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1708,1698,1718,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1990,1980,2000,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1084,1074,1094,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1279.6714759453153,1299.6714759453153,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1458.8960570104362,1478.8960570104362,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1128,1118,1138,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1231.710808802147,1251.710808802147,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,2636.383420688016,2656.383420688016,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,692.8923576224156,712.8923576224156,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,0,0,10,Substitution
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,291.85946187287084,311.85946187287084,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2357,2347,2367,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,200.28300723253005,220.28300723253005,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,675.5518955246121,695.5518955246121,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2509.388756009375,2529.388756009375,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2801.904723870482,2821.904723870482,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1262,1252,1272,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,761.7273662022003,781.7273662022003,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1537.5978155017042,1557.5978155017042,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,649.9854062084382,669.9854062084382,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2453,2443,2463,Corner
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,2277.854559074117,2297.854559074117,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1254,1244,1264,Kick-off
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2384.1935004980955,2404.1935004980955,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,474,464,484,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1119.2717071510713,1139.2717071510713,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,518.6905490704644,538.6905490704644,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,505,495,515,Direct free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1272,1262,1282,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1899,1889,1909,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,383.24055624003466,403.24055624003466,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1144.6246821245002,1164.6246821245002,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,671.8166951221135,691.8166951221135,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1010.0126426514514,1030.0126426514514,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2126,2116,2136,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2737,2727,2747,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1101.355347620518,1121.355347620518,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1877,1867,1887,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,622,612,632,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2661.4705722937842,2681.4705722937842,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2156.110192811311,2176.110192811311,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1499,1489,1509,Goal
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,273.8388242692642,293.8388242692642,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,960.965619041202,980.965619041202,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1864,1854,1874,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,734,724,744,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2039.935649082097,2059.935649082097,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2888,2878,2898,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2118,2108,2128,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2667,2657,2677,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,2065.226782736792,2085.226782736792,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2610.226533564564,2630.226533564564,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,767.4026604299888,787.4026604299888,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,335,325,345,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,49.207367689287736,69.20736768928774,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,290.5066859507839,310.5066859507839,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,62,52,72,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1153,1143,1163,Offside
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1043.353733264715,1063.353733264715,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,701.9228073472697,721.9228073472697,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1161.8254140937527,1181.8254140937527,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,2509.226865312117,2529.226865312117,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1059.0501697742911,1079.0501697742911,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1210,1200,1220,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1038,1028,1048,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,283,273,293,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,60.39051905854059,80.39051905854059,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2149,2139,2159,Corner
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1954.1906439316915,1974.1906439316915,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2494,2484,2504,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1627.9756061216183,1647.9756061216183,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2250,2240,2260,Yellow card
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2377,2367,2387,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1808,1798,1818,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,997.9281084338498,1017.9281084338498,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,994.5922520190989,1014.5922520190989,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,699.6387572306471,719.6387572306471,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1633.8853064613947,1653.8853064613947,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2773,2763,2783,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,384.7779580778684,404.7779580778684,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2344,2334,2354,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2156.0543464890075,2176.0543464890075,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1833.8468412142565,1853.8468412142565,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,978,968,988,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,84.14941429786933,104.14941429786933,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,63,53,73,Goal
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1854,1844,1864,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2199,2189,2209,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,346.0467269770649,366.0467269770649,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1452.223470843501,1472.223470843501,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2415,2405,2425,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1567.889835603823,1587.889835603823,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,2058.7315286699586,2078.7315286699586,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1229,1219,1239,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2794.9479238806534,2814.9479238806534,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1036,1026,1046,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,442.19638696036463,462.19638696036463,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,674.5022302778666,694.5022302778666,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1329,1319,1339,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,935.9912478661678,955.9912478661678,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,954.7243980960061,974.7243980960061,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2530,2520,2540,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1103.5730510361225,1123.5730510361225,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,867,857,877,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,280,270,290,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2416,2406,2426,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1114.574434338061,1134.574434338061,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,147,137,157,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,441.8965866421535,461.8965866421535,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1132.77141271031,1152.77141271031,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2550,2540,2560,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2323,2313,2333,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,777,767,787,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1223,1213,1233,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1141.4736497041476,1161.4736497041476,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2839,2829,2849,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,2286.389267518932,2306.389267518932,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1862,1852,1872,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1235.7121054502124,1255.7121054502124,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,198.17026515692484,218.17026515692484,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2436,2426,2446,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,607,597,617,Corner
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,9,0,19,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1307,1297,1317,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2632,2622,2642,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2208,2198,2218,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,375,365,385,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1684,1674,1694,Substitution
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2888,2878,2898,Goal
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,178.23188693353455,198.23188693353455,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,998.5029606171072,1018.5029606171072,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1278,1268,1288,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1423,1413,1433,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1615.9319471534618,1635.9319471534618,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1836,1826,1846,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2079,2069,2089,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,2137.995685765064,2157.995685765064,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,532,522,542,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1061.4943457134011,1081.4943457134011,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,797.4691323548991,817.4691323548991,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2562,2552,2572,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1906.2335029730398,1926.2335029730398,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1503,1493,1513,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,103.78598847540131,123.78598847540131,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1175.0295268751174,1195.0295268751174,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1447,1437,1457,Shots off target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,289,279,299,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,748.8632894034,768.8632894034,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1076.6540611226517,1096.6540611226517,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,997.9393243844142,1017.9393243844142,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,953.7877843434522,973.7877843434522,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1773.987951794441,1793.987951794441,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2229,2219,2239,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1658,1648,1668,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,2705.7607961433073,2725.7607961433073,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,716.9010885257757,736.9010885257757,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,791.0514171923561,811.0514171923561,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,517,507,527,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,484.1094321655809,504.1094321655809,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1701.2748856017631,1721.2748856017631,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,661.6145580185488,681.6145580185488,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2577,2567,2587,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,2910.6191921001696,2930.6191921001696,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2672.6072196707078,2692.6072196707078,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,82.28725075967121,102.28725075967121,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1528,1518,1538,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,49.827684968877904,69.8276849688779,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,318,308,328,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1911.3917099332623,1931.3917099332623,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,991,981,1001,Corner
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,242,232,252,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2088,2078,2098,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,584,574,594,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1863,1853,1873,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1680.9187112665113,1700.9187112665113,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1086,1076,1096,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,337.8033273898222,357.8033273898222,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,740.1999602737079,760.1999602737079,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2498.936247380526,2518.936247380526,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,963,953,973,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,2316.5273482587213,2336.5273482587213,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1091.8602930107356,1111.8602930107356,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,932.7469924927655,952.7469924927655,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1264.8567647284726,1284.8567647284726,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,474,464,484,Direct free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2419,2409,2429,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1121.310070112183,1141.310070112183,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,733.6232989096969,753.6232989096969,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,598,588,608,Shots off target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,640.7068997214167,660.7068997214167,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2513.5601527109766,2533.5601527109766,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,397.4036582665662,417.4036582665662,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,377.73683525544806,397.73683525544806,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1092,1082,1102,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,10.272385563124285,30.272385563124285,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2031.2941154951825,2051.2941154951823,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,234.69131443071163,254.69131443071163,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,820,810,830,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,679.5057677508778,699.5057677508778,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2269,2259,2279,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1528,1518,1538,Shots off target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,959,949,969,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,2144.7800012847188,2164.7800012847188,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1868,1858,1878,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1285.3024708363869,1305.3024708363869,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2046.7679016126988,2066.7679016126986,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,414,404,424,Corner
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,445.8410489717954,465.8410489717954,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1792,1782,1802,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,748.2997531434557,768.2997531434557,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,676,666,686,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2248,2238,2258,Corner
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1617.3000416311381,1637.3000416311381,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,868,858,878,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2538,2528,2548,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,388.1221145169853,408.1221145169853,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1527,1517,1537,Corner
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1020.0895398702473,1040.0895398702473,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1843.6581406690602,1863.6581406690602,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,230.62130208363226,250.62130208363226,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,2636.3850830362403,2656.3850830362403,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,944.7697079056404,964.7697079056404,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2728,2718,2738,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,565,555,575,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2750,2740,2760,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2373,2363,2383,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1213,1203,1223,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1730,1720,1740,Shots off target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,154,144,164,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2504.010764378655,2524.010764378655,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,274,264,284,Corner
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1609,1599,1619,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2699,2689,2709,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2808.5820009453937,2828.5820009453937,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1804,1794,1814,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1020,1010,1030,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2514.22186312044,2534.22186312044,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,855,845,865,Corner
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2556,2546,2566,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1896,1886,1906,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,432.6556175008616,452.6556175008616,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,173,163,183,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,2722.943578805291,2742.943578805291,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2599,2589,2609,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1837.3649359920812,1857.3649359920812,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,830,820,840,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,861,851,871,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1903,1893,1913,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,147,137,157,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1730.8050935717054,1750.8050935717054,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2258,2248,2268,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,426,416,436,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,2816.5829960890164,2836.5829960890164,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,147,137,157,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1796,1786,1806,Corner
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,547,537,557,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,42,32,52,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2910,2900,2920,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,484,474,494,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1436.75699429016,1456.75699429016,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1456,1446,1466,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,791.8302037751488,811.8302037751488,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2187,2177,2197,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,784.647430485224,804.647430485224,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,488,478,498,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1944,1934,1954,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1230.606727474262,1250.606727474262,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1564,1554,1574,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,916,906,926,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2491,2481,2501,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2171,2161,2181,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1629.1735358550723,1649.1735358550723,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1907.7257424841189,1927.7257424841189,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1632.3314354044387,1652.3314354044387,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2228,2218,2238,Corner
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,350.1086326165447,370.1086326165447,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2498.141731135665,2518.141731135665,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,544,534,554,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,919.0901884330432,939.0901884330432,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1082.3047925165026,1102.3047925165026,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,2927.926618959477,2947.926618959477,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1735.3436646502423,1755.3436646502423,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1382,1372,1392,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,2841.657201723271,2861.657201723271,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2048.7791789583785,2068.7791789583785,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,66.18435241087354,86.18435241087354,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1464,1454,1474,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1496.7111642484501,1516.7111642484501,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,909,899,919,Corner
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,447.68903893838944,467.68903893838944,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,570.0544736030714,590.0544736030714,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,747.5757458172309,767.5757458172309,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1945.1258985600282,1965.1258985600282,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1109.8657563023128,1129.8657563023128,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,237,227,247,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1606,1596,1616,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1689.2732220002683,1709.2732220002683,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1534,1524,1544,Kick-off
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1633,1623,1643,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,982,972,992,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1209.7674769999323,1229.7674769999323,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,248,238,258,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,91.28703925915704,111.28703925915704,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,63.13781204191228,83.13781204191227,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,555,545,565,Corner
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2153.7709365307105,2173.7709365307105,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,382,372,392,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,205.1896848126823,225.1896848126823,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,922.2501052013928,942.2501052013928,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1611,1601,1621,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1556.434226813342,1576.434226813342,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2213.4909672350473,2233.4909672350473,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,632.9981244333356,652.9981244333356,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,760,750,770,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1513.0080456762093,1533.0080456762093,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1021.4193951959107,1041.4193951959107,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2064,2054,2074,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1543,1533,1553,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,716,706,726,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1190,1180,1200,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,201.1617575938654,221.1617575938654,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,731,721,741,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,0,0,10,Kick-off
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,613,603,623,Direct free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1195.8981653862797,1215.8981653862797,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1137.551056960192,1157.551056960192,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,430,420,440,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,43.414599402150856,63.414599402150856,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1977,1967,1987,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,340.00042597334635,360.00042597334635,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,82.32161059283192,102.32161059283192,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,86.73930775662019,106.73930775662019,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2644.9909701336146,2664.9909701336146,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,688.3638619675708,708.3638619675708,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,960.3190277887654,980.3190277887654,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1165,1155,1175,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2425,2415,2435,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2136,2126,2146,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1552.6086231263762,1572.6086231263762,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1957.91790587655,1977.91790587655,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2320,2310,2330,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1904.8505561198328,1924.8505561198328,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1348,1338,1358,Kick-off
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2598,2588,2608,Shots off target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1405,1395,1415,Substitution
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,33.18374219013944,53.18374219013944,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1049.4194484828508,1069.4194484828508,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2350,2340,2360,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1449.163310711537,1469.163310711537,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,344,334,354,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,373.08867090411667,393.08867090411667,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,940.1743125036346,960.1743125036346,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2618,2608,2628,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,574.8336260245272,594.8336260245272,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,723,713,733,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2345,2335,2355,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1206.8722060871203,1226.8722060871203,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2184,2174,2194,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1764.6408773370308,1784.6408773370308,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1178.5925500308922,1198.5925500308922,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1730,1720,1740,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,895,885,905,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1567.2908470431923,1587.2908470431923,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2626.0413910258994,2646.0413910258994,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,77.70162141206264,97.70162141206264,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2031,2021,2041,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,808,798,818,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,778,768,788,Goal
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,2007.1761546717164,2027.1761546717164,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,20.78827729088601,40.788277290886015,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2501.821174589757,2521.821174589757,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1819.2514231863327,1839.2514231863327,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1113.3016148296172,1133.3016148296172,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2514.5668550041887,2534.5668550041887,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1982.6285459411602,2002.6285459411602,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,220,210,230,Shots off target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1150.8156180681094,1170.8156180681094,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1005,995,1015,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,904.5529604007777,924.5529604007777,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,199,189,209,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,505,495,515,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,2449.2490499633864,2469.2490499633864,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1105.943162916032,1125.943162916032,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1306.1152305607845,1326.1152305607845,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,990.9951611152986,1010.9951611152986,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,809.5338083321412,829.5338083321412,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2047.510021260566,2067.5100212605657,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2427.867858014947,2447.867858014947,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,377.16793084717244,397.16793084717244,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,657.7731565117494,677.7731565117494,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,394,384,404,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,332,322,342,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1110.7929500151026,1130.7929500151026,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2347,2337,2357,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2268,2258,2278,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,37,27,47,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,728,718,738,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,513,503,523,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,620,610,630,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,993,983,1003,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2661.088425993583,2681.088425993583,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2471,2461,2481,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,24.628784209006973,44.62878420900697,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,679.7850665863588,699.7850665863588,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,692.3146313523856,712.3146313523856,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2243,2233,2253,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1875,1865,1885,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1945,1935,1955,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1531.7133289052028,1551.7133289052028,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1384,1374,1394,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2767.4584209065815,2787.4584209065815,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,576,566,586,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,145,135,155,Direct free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,93.10317573593807,113.10317573593807,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1965,1955,1975,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1838.4844382229296,1858.4844382229296,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1209.061608068888,1229.061608068888,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2686,2676,2696,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,266,256,276,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,513,503,523,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,364,354,374,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,816.6945389932694,836.6945389932694,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2264.9308045215294,2284.9308045215294,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2501,2491,2511,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1127.406925255373,1147.406925255373,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2442,2432,2452,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1233.569373872639,1253.569373872639,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,473,463,483,Direct free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1032.1376285188487,1052.1376285188487,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,333,323,343,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2,0,12,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2303,2293,2313,Direct free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1593,1583,1603,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1971.2880672626081,1991.2880672626081,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1538.7193280780161,1558.7193280780161,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1195,1185,1205,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1806,1796,1816,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,530.2131264549862,550.2131264549862,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,236,226,246,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,2009.542709922847,2029.542709922847,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,696.6860253777478,716.6860253777478,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,2681.475655924704,2701.475655924704,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1927,1917,1937,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1176.7939929183558,1196.7939929183558,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1278,1268,1288,Goal
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2612,2602,2622,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1453.4471452755968,1473.4471452755968,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,384,374,394,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1360,1350,1370,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,260,250,270,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,2191.421439417838,2211.421439417838,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,2457.172473132722,2477.172473132722,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,60.37881700107886,80.37881700107886,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1725.872343438327,1745.872343438327,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1001,991,1011,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,2289.1923406960314,2309.1923406960314,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,26.56620081862501,46.566200818625006,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1696,1686,1706,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1500,1490,1510,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,593.4579283107813,613.4579283107813,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2502,2492,2512,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,430,420,440,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,259.33518096684026,279.33518096684026,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1457.8444899719916,1477.8444899719916,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,2284.1347211638267,2304.1347211638267,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,83.69640933600203,103.69640933600203,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,2128.2250438899086,2148.2250438899086,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1002.5832746553195,1022.5832746553195,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2350,2340,2360,Yellow card
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,701.8586215304682,721.8586215304682,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1974.6518043782203,1994.6518043782203,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,945,935,955,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,36.39753365141331,56.39753365141331,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2562,2552,2572,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,452,442,462,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1715,1705,1725,Corner
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1226.895138386131,1246.895138386131,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2616,2606,2626,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,35,25,45,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,851,841,861,Substitution
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2414,2404,2424,Shots off target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2511,2501,2521,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1361,1351,1371,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1831,1821,1841,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1648.7152272132066,1668.7152272132066,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,788,778,798,Offside
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1736.9857519481145,1756.9857519481145,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,21.21058292079256,41.21058292079256,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1354,1344,1364,Substitution
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1892,1882,1902,Substitution
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,462.86803857699044,482.86803857699044,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,374,364,384,Shots off target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2661.9816014113558,2681.9816014113558,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2412,2402,2422,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,562.4339711906612,582.4339711906612,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,237,227,247,Direct free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,2723.4524072736986,2743.4524072736986,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1090.7971449558704,1110.7971449558704,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1815.9323079241599,1835.9323079241599,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,34.10396759668019,54.10396759668019,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1065,1055,1075,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,747.5162298263807,767.5162298263807,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,834,824,844,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1456.0575550316557,1476.0575550316557,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2507,2497,2517,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1018.8399145246874,1038.8399145246874,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,583.5558440753099,603.5558440753099,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1837.2983214409749,1857.2983214409749,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,81.16424587084367,101.16424587084367,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1203,1193,1213,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2393,2383,2403,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1915.9323962472909,1935.9323962472909,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1224.7012046751868,1244.7012046751868,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1315.5143414546062,1335.5143414546062,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,2090.315684507671,2110.315684507671,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,626,616,636,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1541,1531,1551,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,8.909138932375713,28.90913893237571,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,543.2089167832264,563.2089167832264,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,289,279,299,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2265.6039773177995,2285.6039773177995,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,728.6708409037213,748.6708409037213,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,633,623,643,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1334.7218013045122,1354.7218013045122,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,226,216,236,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2563.4802736202937,2583.4802736202937,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,331,321,341,Shots off target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,2659.505097205835,2679.505097205835,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,504,494,514,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1377,1367,1387,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,57.50572566223683,77.50572566223683,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,693.1010545571337,713.1010545571337,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,986,976,996,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,342.30514350938967,362.30514350938967,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,122,112,132,Kick-off
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,930.4142105449305,950.4142105449305,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1446.1922464966788,1466.1922464966788,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,757.8188225418704,777.8188225418704,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,958.6792727455488,978.6792727455488,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,875.4694531324193,895.4694531324193,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1783,1773,1793,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2599.360295546671,2619.360295546671,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,46.555689651369086,66.55568965136908,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,425,415,435,Offside
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1776,1766,1786,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,295.3099744619436,315.3099744619436,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,798,788,808,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,476,466,486,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,877,867,887,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2585.804914966342,2605.804914966342,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2752,2742,2762,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2000,1990,2010,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,433,423,443,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,916.4302771681055,936.4302771681055,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,255,245,265,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1809,1799,1819,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,477,467,487,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,355.13366363999603,375.13366363999603,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1552.5806456163916,1572.5806456163916,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,743.3776893457224,763.3776893457224,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2378,2368,2388,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1100.423278798509,1120.423278798509,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,40.687564816378575,60.687564816378575,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,2690.186019718804,2710.186019718804,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1393,1383,1403,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,960.5533506677037,980.5533506677037,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1134.5488786872857,1154.5488786872857,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1971.8585304211665,1991.8585304211665,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,2853.2929860225677,2873.2929860225677,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1448,1438,1458,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1561,1551,1571,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2487,2477,2497,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,399.8520517393966,419.8520517393966,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,932.7457144296134,952.7457144296134,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1193,1183,1203,Shots off target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,341.52756312339153,361.52756312339153,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2035.3712846298442,2055.371284629844,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,924.6807595813665,944.6807595813665,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2497.411968278453,2517.411968278453,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,67.76719029499961,87.76719029499961,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2463,2453,2473,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,2448.247340592208,2468.247340592208,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,2921.766499813729,2941.766499813729,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,246,236,256,Corner
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,900,890,910,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,384,374,394,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1706.4419529318695,1726.4419529318695,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2585,2575,2595,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2928,2918,2938,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,300,290,310,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,823,813,833,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2088,2078,2098,Direct free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2263,2253,2273,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2105,2095,2115,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1263,1253,1273,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2789.7838721081657,2809.7838721081657,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,164.2331249675475,184.2331249675475,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2519.805534376358,2539.805534376358,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1737.1329214466386,1757.1329214466386,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2666.1804765764123,2686.1804765764123,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,101.83230747281699,121.83230747281699,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,225,215,235,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2604,2594,2614,Indirect free-kick
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,270.38697354321533,290.38697354321533,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1578,1568,1588,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1717,1707,1727,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2700,2690,2710,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1435,1425,1445,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1318,1308,1328,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,2399,2389,2409,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2512.5667148553957,2532.5667148553957,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,271.8442195146179,291.8442195146179,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,2085.1356872902415,2105.1356872902415,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1417.3438369444484,1437.3438369444484,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2486,2476,2496,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1210,1200,1220,Goal
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,702.1415746515418,722.1415746515418,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,891,881,901,Clearance
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,130,120,140,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,10.310598035892085,30.310598035892085,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1588.9443389511866,1608.9443389511866,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1133.7662036182735,1153.7662036182735,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1141.2600012877385,1161.2600012877385,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,2041.5612653547316,2061.5612653547314,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1286,1276,1296,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1846.8214016685488,1866.8214016685488,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,751.0097041210239,771.0097041210239,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,417,407,427,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,685,675,695,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1034,1024,1044,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2189,2179,2199,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1095.174704147131,1115.174704147131,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2125,2115,2135,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2244,2234,2254,Foul
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,656.1563903285731,676.1563903285731,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,,,,1631.4563156856866,1651.4563156856866,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2451,2441,2461,Corner
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,37,27,47,Goal
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1987,1977,1997,Corner
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,1680,1670,1690,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2297,2287,2307,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,2,2087,2077,2097,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1156,1146,1166,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2552,2542,2562,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,2461,2451,2471,Shots off target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,2,1029,1019,1039,Throw-in
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,409,399,419,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,1106.9485381247976,1126.9485381247976,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,1489,1479,1499,Shots on target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\2_224p.mkv,,,,695.3545781422046,715.3545781422046,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,2572.099344926394,2592.099344926394,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,512,502,522,Shots off target
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1171.5561219954377,1191.5561219954377,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,,,,1705.7179884926006,1725.7179884926006,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2668.2076844525286,2688.2076844525286,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland\1_224p.mkv,2015-09-26 - 17-00 Manchester United 3 - 0 Sunderland,1,2113,2103,2123,Ball out of play
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,1803.4441823873788,1823.4441823873788,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\2_224p.mkv,,,,2016.4267525369605,2036.4267525369605,Background
+E:\SprotsHighlights\datasets\SoccerNet\england_epl\2015-2016\2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa\1_224p.mkv,2015-09-26 - 17-00 Liverpool 3 - 2 Aston Villa,1,1660,1650,1670,Ball out of play
